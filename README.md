@@ -6,10 +6,6 @@ This project is an **Excel-based Sales & Financial Dashboard** designed to analy
 
 The project uses **2,000 transaction records** and Excel PivotTables and charts to transform raw business data into meaningful insights and an easy-to-understand dashboard.
 
-## 🖼️ Dashboard Preview
-
-![Excel Dashboard](dashboard.png)
-
 ## 🛠️ Tools & Technologies
 
 - Microsoft Excel
